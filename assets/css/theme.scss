@@ -48,6 +48,17 @@ h4, .h4, h5, .h5 {
     line-height:1.4;
 }
 
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    color: #FFCB37;
+    background-color: #FFCB37;
+}
+
 .font-weight-bold {
     font-weight:600 !important;
 }
