@@ -1,13 +1,13 @@
-title: "Affiliates"
+title: "Affiliatesa"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/affiliates-jekyll-theme/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'demowebsites'
 locale: en_us
 lang: en_us
 feed_items: 10
