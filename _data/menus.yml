@@ -1,16 +1,14 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: HOME
   url: ""
 
-- title: About
+- title: BLOG
   url: "about/"
 
-- title: Contact
-  url: "contact/"
 
-- title: Get this theme  
+- title: TRY FOR FREE  
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true

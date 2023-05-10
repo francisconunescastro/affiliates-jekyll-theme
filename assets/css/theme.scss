@@ -81,7 +81,7 @@ img, video {max-width:100%;}
     font-size:13px;
     a {
         background:#333;
-        color:white;
+        color:#FFCB37;
         padding:2px 4px;
         border-radius:4px;
     }
@@ -95,12 +95,23 @@ small, .small {
 /* #Navigation
 ================================================== */
 
+.ml-2.btn.btn-dark.text-white.px-3 {
+    background-color: white;
+    color: #FFCB37;
+    border-radius: 8px;
+    border-color: white;
+}
+
+
 .start-header {
 	opacity: 1;
 	transform: translateY(0);
-	padding: 20px 0;	
+	padding: 0px 0;	
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
+    font-family: 'Lexend', sans-serif;
+    color: white;
+    
    
 }
 .start-header.scroll-on {	
