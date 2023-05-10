@@ -6,7 +6,7 @@ url: "https://francisconunescastro.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: TuneTipper
 paginate: 30
 disqus: 'demowebsites'
 locale: en_us
@@ -25,9 +25,9 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  TuneTipper:
+    name: TuneTiper
+    display_name: 'TuneTipper Team'
     avatar: 'assets/images/sal.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
