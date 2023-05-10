@@ -1,7 +1,8 @@
 title: "Affiliatesa"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: ""
+baseurl: "/affiliates-jekyll-theme"
+url: "https://francisconunescastro.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
