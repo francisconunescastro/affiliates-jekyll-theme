@@ -1,8 +1,8 @@
-    ---
+---
 layout: post
 title:  "The Pitfalls of Paid Playlists: How They Can Hurt Your Spotify Numbers"
 author: TuneTipper
-categories: [ Jekyll, tutorial ]
+categories: [ Paying for Playlist Placements on Spotify, Spotify Playlist Promotion, Music Streaming Strategies ]
 image: assets/images/studio-tour-2.jpeg
 ---
 
