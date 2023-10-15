@@ -9,11 +9,10 @@ Independent Musician Promotion,
 Free Music Marketing
 
  ]
-image: assets/images/lyrics.avif
+image: assets/images/live-playing.avif
 ---
 
 
-# How to Promote Your Music for Free: Unleash Your Artistry to the World
 
 As an independent musician, you pour your heart and soul into creating music that resonates with your audience. While the world of music is highly competitive, the digital age has opened up numerous opportunities for you to promote your music and connect with fans without breaking the bank. In this article, we'll explore effective ways to promote your music for free and help you make your mark in the music industry.
 
