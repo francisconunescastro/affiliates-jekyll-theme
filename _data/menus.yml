@@ -1,15 +1,14 @@
 # Top Menu
 topmenu:
 
-- title: HOME
-  url: ""
+- title: Home
+  url: "https://www.tunetipper.com/"
 
-- title: BLOG
-  url: "about/"
+
 
 
 - title: TRY FOR FREE  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+  url: "https://www.tunetipper.com/sign-up/"
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
