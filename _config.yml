@@ -2,7 +2,7 @@ title: "TuneTipper"
 email: help@tunetipper.com
 timezone: UTC
 baseurl: "/"
-url: "blog.tunetipper.com"
+url: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
