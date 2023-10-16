@@ -1,8 +1,8 @@
-title: "Affiliatesa"
-email: wowthemesnet@gmail.com
+title: "TuneTipper"
+email: help@tunetipper.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
-url: "https://francisconunescastro.github.io"
+baseurl: "/"
+url: "blog.tunetipper.com"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
