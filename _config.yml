@@ -8,7 +8,6 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: TuneTipper
 paginate: 30
-disqus: 'demowebsites'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -29,10 +28,9 @@ authors:
     name: TuneTiper
     display_name: 'TuneTipper Team'
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: hello@tunetipper.com
+    web: tunetipper.com
+    description: "TuneTipper is the best way to promote your music. "
   john:
     name: John
     display_name: John
